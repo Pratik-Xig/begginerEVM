@@ -18,7 +18,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 ```
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
+pragma solidity 0.8.26;
 
 /*
        REQUIREMENTS
