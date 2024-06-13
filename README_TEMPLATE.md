@@ -92,4 +92,4 @@ pratikmishra.edu@gmail.com
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Pratik Mishra] License - see the LICENSE.md file for details
