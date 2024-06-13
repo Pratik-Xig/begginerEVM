@@ -1,4 +1,4 @@
-# Project Title
+# Token Creation Solidity Contract
 
 Simple overview of use/purpose.
 
